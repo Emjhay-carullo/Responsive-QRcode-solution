@@ -37,4 +37,4 @@ Using Responsive layout
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/@Emjhay-carullo/Emjhay](https://www.frontendmentor.io/@Emjhay-carullo/Emjhay)
+- Frontend Mentor - [https://www.frontendmentor.io/@Emjhay-carullo/Emjhay]
